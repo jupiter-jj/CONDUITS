@@ -7,13 +7,13 @@ This project is a foot controlled door lock for those with hand disabilities. Th
 --------------------------------
 
 
-CONDUITS_Mat_Program.ino -- > code for the mat
-
 CONDUITS_App.aia --> code the the app companion (MIT App Inventor)
 
 CONDUITS_App.apk --> download andriod app file to install (MIT App Inventor)
 
 CONDUITS_Fritzing.fzz --> Fritzing file
+
+CONDUITS_Mat_Program.ino -- > code for the mat
 
 CONDUITS_Schematics.pdf --> Schematics
 
