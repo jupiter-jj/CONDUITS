@@ -13,8 +13,8 @@ CONDUITS_App.aia --> code the the app companion (MIT App Inventor)
 
 CONDUITS_App.apk --> download andriod app file to install (MIT App Inventor)
 
+CONDUITS_Fritzing.fzz --> Fritzing file
+
 CONDUITS_Schematics.pdf --> Schematics
 
 CONDUITS_PCB.pdf --> PCB file
-
-CONDUITS_Fritzing.fzz --> Fritzing file
